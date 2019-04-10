@@ -7,6 +7,18 @@ body {
     margin: auto;
   }
 
+.nav{
+    background: rgb(10, 10, 10);
+    color: antiquewhite;
+    font-size: 130%;
+    height: 50px;
+  }
+
+  a{
+    text-decoration: none;
+    color: aliceblue;
+  }
+
 .header{
     background: #222;
     color: aliceblue;
