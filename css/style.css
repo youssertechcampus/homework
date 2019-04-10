@@ -11,4 +11,9 @@ body {
     background: #222;
     color: aliceblue;
     height: 360px;
+    text-align: center;
 }
+
+.header img{
+    width: 100px;
+} 
